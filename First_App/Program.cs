@@ -8,8 +8,6 @@ namespace First_App
       {
             static void Main ( string [ ] args )
             {
-                  int age =18;
-                  Console . WriteLine (age );
 
             }
 
